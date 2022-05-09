@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/wobot_ai/static/css/main.e6c13ad2.css",
+    "main.js": "/wobot_ai/static/js/main.54c8e2dd.js",
+    "index.html": "/wobot_ai/index.html",
+    "main.e6c13ad2.css.map": "/wobot_ai/static/css/main.e6c13ad2.css.map",
+    "main.54c8e2dd.js.map": "/wobot_ai/static/js/main.54c8e2dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.54c8e2dd.js"
+  ]
+}
